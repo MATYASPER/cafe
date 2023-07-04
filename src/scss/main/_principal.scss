@@ -1,0 +1,22 @@
+.contenido-principal{
+    padding: 10rem;
+    margin-top: -10rem;
+    position: relative;
+    background-color: #fff;
+    
+
+
+
+ @include m.tablet {
+    padding: 10rem;
+    margin-top: -10rem;
+    position: relative;
+ }
+
+ p  {
+    line-height: 2;
+ }
+}
+
+
+
